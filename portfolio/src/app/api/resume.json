@@ -36,7 +36,7 @@
       "employer": "ConsumerSearch",
       "location": "New York, NY",
       "title": "Senior Web Developer",
-      "from: "May 2010",
+      "from": "May 2010",
       "to": "April 2012",
       "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Maintained and built new features for a consumer product comparison website owned by <a href=\\"https://www.nytco.com/\\">The New York Times Company</a>, using <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/CSS\\">CSS</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/HTML\\">HTML</a>, <a href=\\"https://www.drupal.org/\\">Drupal</a>, <a href=\\"https://www.php.net/\\">PHP</a>, <a href=\\"https://jquery.com/\\">jQuery</a>.</li><li class=\\"mb-1\\">Halved load times by minimizing HTTP requests and optimizing server side code for <a href=\\"https://www.drupal.org/\\">Drupal</a> views/templates.</li><li class=\\"mb-1\\">Co-led usability testing and user feedback collection, alongside the design director.</li></ul>"
     },
