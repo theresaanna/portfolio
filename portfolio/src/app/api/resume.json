@@ -1,0 +1,68 @@
+{
+  "jobs": [
+    {
+      "employer": "18F",
+      "location": "Washington DC and remote",
+      "title": "Lead Innovation Specialist",
+      "from": "December 2014",
+      "to": "August 2018",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Extended software used to parse and view federal regulation for the <a class=\\"rounded\\" href=\\"https://regulations.atf.gov/\\">Alcohol, Tobacco and Firearms Bureau</a>, increasing regulatory compliance and ease of use for ATF staff using <a class=\\"rounded\\" href=\\"https://react.dev/\\">React</a>, <a class=\\"rounded\\" href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a class=\\"rounded\\" href=\\"https://backbonejs.org/\\">Backbone.js</a>, <a href=\\"https://www.python.org/\\">Python</a> and <a href=\\"https://www.djangoproject.com/\\">Django</a>, <a href=\\"https://sass-lang.com/\\">Sass</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/HTML\\">HTML</a>.</li><li class=\\"mb-1\\">Worked closely with designers and server side engineers to develop a website for an initiative that First Lady Michelle Obama created, resulting in interest being generated in the program and sign ups to the campaigh, using <a class=\\"rounded\\" href=\\"https://jekyllrb.com/\\">Jekyll</a>, <a class=\\"rounded\\" href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a class=\\"rounded\\" href=\\"https://sass-lang.com/\\">Sass</a>.</li><li class=\\"mb-1\\">Built an engineering department from a little over a dozen to sixty engineers, focusing on engineer productivity and career development, exponentially increasing the number of paid projects the agency could accept.</li><li class=\\"mb-1\\">Managed a team of 3-6 high performing engineers, some of whom were tech leads in their focus areas (front end, devops, etc), and a handful of whom were promoted off my team, becoming leaders alongside me.</li><li class=\\"mb-1\\">Co-authored Code of Conduct for events as part of internal Diversity and Inclusion Guild, which became the foundation for the <a class=\\"rounded\\" href=\\"https://github.com/18F/code-of-conduct\\">organizational Code of Conduct</a>.</li></ul>"
+    },
+    {
+      "employer": "18F",
+      "location": "Washington DC and remote",
+      "title": "Innovation Specialist",
+      "from": "August 2014",
+      "to": "December 2014",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg\\"><li>Led continued development of an <a href=\\"https://buy.gsa.gov/pricing/\\">internal tool for federal procurement officers</a> to receive fairer prices on government contracts by comparing past prices on similar contracts, which saved compliance officers time and money on new contracts, using <a href=\\"https://www.python.org/\\">Python</a> and <a href=\\"https://www.djangoproject.com/\\">Django</a>.</li></ul>"
+    },
+    {
+      "employer": "Consumer Financial Protection Bureau",
+      "location": "Washington DC and remote",
+      "title": "Technology and Innovation Fellow",
+      "from": "December 2012",
+      "to": "August 2014",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg\\"><li>Led front end development for innovative and modern <a href=\\"https://www.consumerfinance.gov/rules-policy/regulations/\\">software that dynamically parses and displays federal regulations</a>, revolutionizing the space for federal employees and private industry alike using <a href=\\"https://www.python.org/\\">Python</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a href=\\"https://www.djangoproject.com/\\">Django</a>, <a href=\\"https://backbonejs.org/\\">Backbone.js</a>, <a href=\\"https://underscorejs.org/\\">Underscore.js</a>, <a href=\\"https://www.travis-ci.com/\\">Travis CI</a>, <a href=\\"https://saucelabs.com/\\">Sauce Labs</a>, <a href=\\"https://www.selenium.dev/\\">Selenium</a>, <a href=\\"https://mochajs.org/\\">Mocha</a>, <a href=\\"https://gruntjs.com/\\">Grunt</a>, shell scripting, <a href=\\"https://eslint.org/\\">ESLint</a>, <a href=\\"https://babeljs.io/\\">Babel</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/HTML\\">HTML</a>, <a href=\\"https://sass-lang.com/\\">Sass</a>.</li></ul>"
+    },
+    {
+      "employer": "Quartz",
+      "location": "New York, NY",
+      "title": "Web Application Engineer",
+      "from": "July 2012",
+      "to": "October 2012",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg\\"><li class=\\"mb-1\\">Led front end engineering for the initial deployment of an innovative news website owned by <a href=\\"https://www.theatlantic.com/\\">The Atlantic Media Company</a>, using <a href=\\"https://backbonejs.org/\\">Backbone.js</a>, <a href=\\"https://underscorejs.org/\\">Underscore.js</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a href=\\"https://www.php.net/\\">PHP</a>, <a href=\\"https://wordpress.com/\\">Wordpress</a>, <a href=\\"https://jquery.com/\\">jQuery</a>.</li></ul>"
+    },
+    {
+      "employer": "ConsumerSearch",
+      "location": "New York, NY",
+      "title": "Senior Web Developer",
+      "from: "May 2010",
+      "to": "April 2012",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Maintained and built new features for a consumer product comparison website owned by <a href=\\"https://www.nytco.com/\\">The New York Times Company</a>, using <a href=\\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\\">JavaScript</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/CSS\\">CSS</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/HTML\\">HTML</a>, <a href=\\"https://www.drupal.org/\\">Drupal</a>, <a href=\\"https://www.php.net/\\">PHP</a>, <a href=\\"https://jquery.com/\\">jQuery</a>.</li><li class=\\"mb-1\\">Halved load times by minimizing HTTP requests and optimizing server side code for <a href=\\"https://www.drupal.org/\\">Drupal</a> views/templates.</li><li class=\\"mb-1\\">Co-led usability testing and user feedback collection, alongside the design director.</li></ul>"
+    },
+    {
+      "employer": "The Economist",
+      "location": "New York, NY",
+      "title": "Client Side Developer",
+      "from": "May 2009",
+      "to": "May 2010",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Ported complex news site from Coldfusion to <a href=\\"https://www.drupal.org/\\">Drupal</a>.</li><li class=\\"mb-1\\">Mentored Coldfusion engineers learning <a href=\\"https://www.drupal.org/\\">Drupal</a> and <a href=\\"https://www.php.net/\\">PHP</a>.</li></ul>"
+    },
+    {
+      "employer": "Sony Music",
+      "location": "New York, NY",
+      "title": "Drupal Themer",
+      "to": "May 2009",
+      "from": "April 2009",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Ported musician websites from <a href=\\"https://www.drupal.org/\\">Drupal</a> 5 to <a href=\\"https://www.drupal.org/\\">Drupal</a> 6, including artists like Ben Folds and Kesha.</li></ul>"
+    },
+    {
+      "employer": "The New York Observer",
+      "location": "New York, NY",
+      "title": "Front End Developer",
+      "from": "October 2008",
+      "to": "April 2009",
+      "body": "<ul class=\\"responsibilities list-disc list-inside col-span-8 mt-4 text-lg mb-4\\"><li class=\\"mb-1\\">Built the front end of two versions of a high traffic media website using <a href=\\"https://www.drupal.org/\\">Drupal</a>, <a href=\\"https://www.php.net/\\">PHP</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/HTML\\">HTML</a>, <a href=\\"https://developer.mozilla.org/en-US/docs/Web/CSS\\">CSS</a>, <a href=\\"https://subversion.apache.org/\\">SVN</a>.</li></ul>"
+    }
+  ]
+}
